@@ -1,4 +1,21 @@
 <p align="center">
-  <img alig src="https://i.postimg.cc/BQZJLcfc/gifffffffff.gif" />
+  <img alig src="https://i.postimg.cc/W4RX8TMw/banner.gif" width="1100"/>
 </p>
 
+I'm a full stack developer... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+```javascript
+
+const Daniela = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Express, Bootstrap, Heroku],
+  databases: [MongoDB, MySql, SQLite, PostgreSQL]
+}
+```
+
+## 🔗 Contact me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielabedoya04/)
+<a target="_blank" href="mailto:danielapoveda75@gmail.com">
+  <img align="rigth" alt="Gmail" width="89px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
