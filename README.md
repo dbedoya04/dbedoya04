@@ -15,11 +15,14 @@ const Daniela = {
   databases: [MongoDB, MySql, SQLite, PostgreSQL]
 }
 ```
+- 👩‍💻 I'm currently working on an ecommerce focused on small markets...
+- 🧠 I'm currently learning TypeScript and other cool stuff!
 
-## 🔗 Contact me
+
+## 🔗 Contact with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielabedoya04/)
 <a target="_blank" href="mailto:danielapoveda75@gmail.com">
-  <img align="rigth" alt="Gmail" width="89px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="rigth" alt="Gmail" width="87px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 
