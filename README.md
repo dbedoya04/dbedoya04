@@ -24,6 +24,3 @@ const Daniela = {
 <a target="_blank" href="mailto:danielapoveda75@gmail.com">
   <img align="rigth" alt="Gmail" width="87px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-
-[Documentation](https://linktodocumentation)
