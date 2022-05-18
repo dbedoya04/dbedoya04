@@ -24,3 +24,6 @@ const Daniela = {
 <a target="_blank" href="mailto:danielapoveda75@gmail.com">
   <img align="rigth" alt="Gmail" width="87px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=dbedoya04&label=PROFILE+VIEWS&color=blueviolet)
+
