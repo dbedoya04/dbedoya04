@@ -4,7 +4,7 @@
 
  
 
-### <img align='right' width="300" src="https://user-images.githubusercontent.com/54052523/163474648-21be73b2-9f18-4709-9cb9-2b740ca2b120.svg"/> I'm a full stack developer... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
+### <img align='right' width="300" src="https://camo.githubusercontent.com/f8602c41edfdde9881ec3b82ffb22faebd3e8437ea05e0dd85eec4584eb11174/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f68733442536163464b493741373137792f67697068792e676966"/> I'm a full stack developer... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 
 
 ```javascript
